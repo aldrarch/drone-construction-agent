@@ -1,0 +1,14 @@
+# Core ML / vision
+torch>=2.4.0
+transformers>=4.44.0
+Pillow>=10.0.0
+numpy>=1.26.0
+
+# Web UI
+streamlit>=1.32.0
+
+# Validation / data
+pydantic>=2.0.0
+
+# Tests
+pytest>=8.0.0
